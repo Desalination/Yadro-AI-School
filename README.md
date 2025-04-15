@@ -1,3 +1,3 @@
 # ML YADRO
 
-Completed tasks for the classic machine learning YADRO AI school course 
+Completed tasks for the machine learning YADRO AI school course 
